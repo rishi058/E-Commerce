@@ -1,4 +1,4 @@
-package com.example.user
+package com.devwizards.e_com_buy
 
 import io.flutter.embedding.android.FlutterActivity
 
